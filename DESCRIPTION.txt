@@ -1,0 +1,14 @@
+# Title: Software framework for the processing and statistical analysis of multivariate MS-data
+# Owner: Laboratory of Integrative Metabolomics (LIMET), Ghent university
+# Creator: Dr. Marilyn De Graeve
+# Maintainer: <limet@ugent.be>
+# Repository: Merge_VariableMetadata
+
+# Description: Merge two variableMetadata files together, e.g. from both ionization modes. 
+# Input: 
+# -	Configuration.R
+# -	VariableMetadata1.txt 
+# -	2nd variableMetadata.txt 
+# Output: 
+# -	VariableMetadata1.txt 
+# - The VariableMetadata.txt will also be saved in the Input folder for next steps in the R pipeline (and replace files with the default name of project_variableMetadata.txt.
